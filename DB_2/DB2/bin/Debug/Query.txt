@@ -1,0 +1,1 @@
+SELECT * FROM [Animals] WHERE Id = 'your_text', Animals_name = 'your_text' ;
